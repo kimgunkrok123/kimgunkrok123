@@ -7,10 +7,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kimgunkrok123.kimgunkrok123" alt="visitor badge"/>
 </p>
 
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kimg92748) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kimgunkrok@gmail.com) 
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kimgunkrok123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=kimgunkrok123&theme=dark&hide_border=false)<br/>
 
