@@ -9,11 +9,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=kimgunkrok123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=kimgunkrok123&theme=dark&hide_border=false)<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kimgunkrok123&limit=5&theme=dark&combine_all_yearly_contributions=true)
