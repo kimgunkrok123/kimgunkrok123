@@ -3,12 +3,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,arch,pytorch,react,vscode,bash,vite" />
 </p>
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kimgunkrok123" />
-</p>
-
-<p align="center">
   <a href="https://instagram.com/Kimg92748">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
