@@ -18,6 +18,3 @@
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=kimgunkrok123&theme=dark&include_all_commits=true&count_private=true)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kimgunkrok123&limit=5&theme=dark&combine_all_yearly_contributions=true)
